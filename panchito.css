@@ -1,0 +1,38 @@
+.pancho{
+    margin: 0px auto;
+    border-radius: 100px;
+    border-bottom: 100px;
+    border-top: 100px;
+}
+
+.pan_arriba{
+    width: 400px;
+    height: 60px;
+    background-color: #f9cb38;
+}
+
+.pan_arriba:nth-child(1){
+    border-bottom: 15px solid #e6b01c;
+    border-radius: 100px 100px 0 0;
+}
+
+.pan_abajo:nth-child(3){
+    border-top: 15px solid #e6b01c;
+    border-radius: 0 0 100px 100px;
+}
+    
+.salchicha{
+    width: 400px;
+    height: 60px;
+    background-image: linear-gradient(to bottom, #ee5d1e 50%, #cd4314 51%);
+    border-radius: 100px;
+    border-bottom: 100px;
+    border-top: 50px;
+}
+
+.pan_abajo{
+    width: 400px;
+    height: 60px;
+    background-color: #f9cb38;
+    
+}
